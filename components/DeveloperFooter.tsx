@@ -30,6 +30,35 @@ const DeveloperFooter = () => {
       website: 'https://shravanpatel.com',
       instagram: 'https://www.instagram.com/ShravanPatelSJ',
     },
+    {
+      name: 'Hemanth Kotagiri',
+      image: 'https://avatars.githubusercontent.com/u/24365579?v=4',
+      description: 'Core Maintainer & Creator of JNTUH Results Services',
+      role: 'Full Stack Developer',
+      quote: 'A dude who does a little bit of everything.',
+      github: 'https://github.com/hemanth-kotagiri',
+      linkedin: 'https://linkedin.com/in/hemanth-kotagiri/',
+      website: 'https://hemanthk.me',
+      instagram: 'https://instagram.com/hemanth_43',
+    },
+    {
+      name: 'Syed Ansar',
+      image: 'https://avatars.githubusercontent.com/u/82027712?v=4',
+      description: 'Contributor at JNTUH Results Services',
+      role: 'Front End Developer & UI/UX',
+      quote: 'A passionate JavaScript developer from India',
+      github: 'https://github.com/Syed-Ansar/',
+      linkedin: 'https://www.linkedin.com/in/syed--ansar/',
+    },
+    {
+      name: 'Thilak Reddy',
+      image: 'https://avatars.githubusercontent.com/u/64121161?v=4',
+      description: 'Contributor at JNTUH Results Services',
+      role: 'Backend Developer',
+      quote: 'SOFTWARE DEVELOPER',
+      github: 'https://github.com/ThilakReddyy',
+      linkedin: 'https://www.linkedin.com/in/thilakreddyy/',
+    },
   ]
   return (
     <div className='flex flex-wrap items-center justify-center'>
